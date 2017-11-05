@@ -2,6 +2,6 @@
 
 This is my 360 projet.
 
-https://www.facebook.com/fbcameraeffects/home/
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/qo1dr" ></script>
 
 ***
