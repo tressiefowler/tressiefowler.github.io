@@ -14,6 +14,6 @@ This is my Camera Effects Project
 
 Chatbot
 
-![BookBot](tressiefowler.github.io/chatbot.JPG?raw=true "Optional Title")
+![BookBot](https://github.com/tressiefowler/tressiefowler.github.io/blob/master/chatbot.JPG?raw=true "Optional Title")
 
 This is my Chatbot project.
