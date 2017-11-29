@@ -8,15 +8,17 @@ This is my 360 project.
 
 Camera Effects
 
-This is my Camera Effects Project
+This is my Camera Effects Project.
 
-![FOWLER.JPG](https://github.com/tressiefowler/tressiefowler.github.io/blob/master/fowler.JPG?raw=true "Optional Title")
+![fowler](https://github.com/tressiefowler/tressiefowler.github.io/blob/master/fowler.JPG?raw=true "Optional Title")
 
 
 ***
 
 Chatbot
 
+This is my Chatbot project.
+
 ![BookBot](https://github.com/tressiefowler/tressiefowler.github.io/blob/master/chatbot.JPG?raw=true "Optional Title")
 
-This is my Chatbot project.
+
