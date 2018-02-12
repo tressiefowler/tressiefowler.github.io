@@ -27,3 +27,4 @@ Storyscape
 This is my Storyscape Project.
 
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/fowlert/tressie-s-world" ></script>
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/fowlert/tressie-s-world" ></script>
